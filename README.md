@@ -8,7 +8,7 @@ LinkedIn: www.linkedin.com/in/kateryna-platonova-49a47a157
 Email: katyaplato@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Travel Log App: https://github.com/katyaplato/travel-log-app
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/katyaplato/
